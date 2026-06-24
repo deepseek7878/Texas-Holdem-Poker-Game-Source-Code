@@ -329,25 +329,31 @@ Multi Table Tournament
 
 # 项目截图
 
-## 游戏大厅
+![主界面](Screencut/主界面.png)
 
-![Lobby](screenshots/lobby.png)
+![游戏房间界面](Screencut/游戏房间界面.png)
 
-## 德州牌桌
+![游戏界面](Screencut/游戏界面.png)
 
-![Table](screenshots/table.png)
+![保险界面](Screencut/保险界面.png)
 
-## 俱乐部系统
+![历史保险界面](Screencut/历史保险界面.png)
 
-![Club](screenshots/club.png)
+![可存证牌界面](Screencut/可存证牌界面.png)
 
-## 锦标赛系统
+![活动界面](Screencut/活动界面.png)
 
-![Tournament](screenshots/tournament.png)
+![我的界面](Screencut/我的界面.png)
 
-## 后台管理系统
+![充币界面](Screencut/充币界面.png)
 
-![Admin](screenshots/admin.png)
+![提币界面](Screencut/提币界面.png)
+
+![账单界面](Screencut/账单界面.png)
+
+![充值账单界面](Screencut/充值账单界面.png)
+
+![系统管理后台界面](Screencut/系统管理后台界面.png)
 
 ---
 
